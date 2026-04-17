@@ -16,3 +16,4 @@ gcc quiz.c -o quiz
 
 ## Author
 Raja Sherina
+CSE Department
